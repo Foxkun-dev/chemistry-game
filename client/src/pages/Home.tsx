@@ -264,7 +264,7 @@ export default function Home() {
       <footer className="border-t border-primary/30 bg-background/80 backdrop-blur-sm py-6 mt-12">
         <div className="container text-center text-sm text-muted-foreground">
           <p>ChemQuest © 2026 - Học Hóa Học Vừa Chơi Vừa Học</p>
-          <p className="mt-2">Thiết kế: Cyberpunk Futuristic Lab | Phong cách: Neon Glow + Interactive</p>
+          <p className="mt-2">Thiết kế và Lập trình: Dlam | Phong cách nền: Neon Glow + Interactive</p>
         </div>
       </footer>
     </div>
